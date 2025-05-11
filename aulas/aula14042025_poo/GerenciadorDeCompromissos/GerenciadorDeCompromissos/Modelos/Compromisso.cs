@@ -1,7 +1,7 @@
 namespace ConsoleApp.Modelos;
 
 public class Compromisso
-{ // ola gais    
+{ 
     private DateTime _data;
     private TimeSpan _hora; 
     public String Data
