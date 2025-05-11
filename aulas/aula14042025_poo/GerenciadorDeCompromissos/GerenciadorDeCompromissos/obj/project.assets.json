@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POO\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POOAPs\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POO\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POOAPs\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Wolfinho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POO\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\obj\\",
+      "outputPath": "C:\\Users\\Wolfinho\\Documents\\GitHub\\POOAPs\\aulas\\aula14042025_poo\\GerenciadorDeCompromissos\\GerenciadorDeCompromissos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wolfinho\\AppData\\Roaming\\NuGet\\NuGet.Config"
